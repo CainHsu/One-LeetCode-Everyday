@@ -3,4 +3,4 @@
 督促我每日完成一道题目
 
 ## LICENSE
-Apache2.0-License
+Apache License 2.0
